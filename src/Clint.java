@@ -57,7 +57,7 @@ public class Clint  extends JFrame implements Runnable, ActionListener {
 
     public static void main(String[] args) throws IOException {
        new Clint();
-       djfniigif
+
 
 
     }
